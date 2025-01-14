@@ -1,4 +1,4 @@
-#Projeto de Crud básico desenvolvido em Express + React + TypeScript + Vite + MongodDB
+# Projeto de Crud básico desenvolvido em Express + React + TypeScript + Vite + MongodDB
 
 Ainda requer inúmeras refatorações, testes, features e outras melhorias.
 
