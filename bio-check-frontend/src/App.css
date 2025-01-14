@@ -1,0 +1,9 @@
+:root {
+    --green: #084200;
+    --black: #000;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+}
